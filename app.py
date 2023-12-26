@@ -9,9 +9,9 @@ from flask import Flask, redirect, url_for, request, render_template, session
 app = Flask(__name__)
 
 mydb = mysql.connector.connect(
-  host="ai-db.mysql.database.azure.com",
-  user="redblack",
-  password="Password@123",
+  host="aayudb.mysql.database.azure.com",
+  user="aayushi",
+  password="dhanu@123",
   database="ai"
 )
 
@@ -37,7 +37,7 @@ def index_post():
     #endpoint = os.environ['ENDPOINT']
     #location = os.environ['LOCATION']
 
-    key="94a5ad7bbedd4e6f833ec571c6d4b8a3"
+    key="94a5ad7bbedd4e6f833ec571c6d4sb8a3"
     endpoint="https://api.cognitive.microsofttranslator.com/"
     location="eastus"
 
