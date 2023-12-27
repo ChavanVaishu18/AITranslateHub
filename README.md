@@ -46,19 +46,21 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service delivers a robust and adaptable hosting infrastructure for the Multilingual Content Hub. This service ensures smooth deployment processes and guarantees high availability, ultimately enhancing the overall user experience to its peak potential.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
+<img src="./Screenshorts/Webapp.png" alt="azure-app-service"></img><br>
+
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+<img src="./Screenshorts/SQL-DB.png" alt="azure-mysql-db-service"></img><br>
+
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+<img src="./Screenshorts/Translator.png" alt="azure-translator-ai-service"></img><br>
+
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+<img src="./Screenshorts/FinalOutput.png" alt="final-project-demo"></img>
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+
 
 <h2>Final Project Statement</h2>
 <p align="justify">
