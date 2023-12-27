@@ -68,4 +68,4 @@ Closing this chapter marks not just the culmination of an application, but an ev
 
 </h2><b><a href="https://aiwebappazure.azurewebsites.net/">Certainly! An alternative to "TranscendLingua" could be:
 
-"GlobaLingo Connect: - AITranslatorHub Translation Web App using Azure AI Translation Service"</b></a>
+"TranscendLingua: - AITranslatorHub Translation Web App using Azure AI Translation Service"</b></a>
