@@ -62,8 +62,10 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
-<p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
-</p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+The My-AI-Translator-AITranslatorHub is a groundbreaking fusion of technology and linguistic expertise, revolutionizing language connectivity. Powered by Azure's robust infrastructure, it goes beyond breaking language barriers, envisioning a future where communication knows no bounds.
+
+Closing this chapter marks not just the culmination of an application, but an ever-evolving journey exploring boundless communication potentialities. In an era defined by global interconnectivity, this initiative stands as a significant stride towards a more inclusive and interconnected world..</p>
+
+</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Certainly! An alternative to "TranscendLingua" could be:
+
+"GlobaLingo Connect: - AITranslatorHub Translation Web App using Azure AI Translation Service"</b></a>
