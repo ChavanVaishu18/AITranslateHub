@@ -8,26 +8,82 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-      body {
-        font-family: 'Oswald', sans-serif;
-      }
+     /* Updated Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f3f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
 
-      .form-group {
-        padding: 0.5rem 0rem;
-      }
+h1 {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    color: #8B4513;
+}
 
-      .form-control {
-        border: 2px solid #ddd;
-        border-radius: 0rem;
-      }
+.form-group {
+    margin-bottom: 20px;
+}
 
-      .btn, .btn-success {
-        border-radius: 0rem;
-        font-weight: bold;
-        width: 100%;
-        margin: 0.5rem 0rem;
-        font-family: 'Oswald', sans-serif;
-      } 
+.form-control {
+    border: 2px solid #8B4513;
+    border-radius: 8px;
+    padding: 12px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #fff;
+    transition: border-color 0.3s ease;
+}
+
+.form-control:focus {
+    border-color: #8B4513;
+    outline: none;
+}
+
+.btn,
+.btn-success {
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    font-family: 'Arial', sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: #8B4513;
+    color: #fff;
+}
+
+.btn:hover,
+.btn-success:hover {
+    background-color: #7a3f11;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #8B4513;
+    color: #fff;
+}
+
     </style>
     <title>Translator</title>
 </head>
